@@ -1,5 +1,5 @@
-hello version 4
+hello version 5
 for i in range(0,10):
-	if i%3 == 0: version 4
+	if i%3 == 0: version 5
 		print(i)
-version 4
+version 5
